@@ -6,7 +6,7 @@ To Compress and extract the files in the linux
 
 Gzip is certainly one of the most widely used compression tools for Linux admins. It is compatible with every GNU software, making it the perfect compression tool for remote engineers. Gzip leverages the Lempel-Ziv coding in deflate mode for file compression. It can reduce the size of source codes by up to 90 percent. Overall, this is an excellent choice for seasoned Linux users as well as software developers.
 
-(https://user-images.githubusercontent.com/107887051/174798315-79865bf1-2e52-4a95-afd8-a669ba4a916b.png)
+
 
 
 
